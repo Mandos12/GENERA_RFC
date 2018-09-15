@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppRFC</string>
+    <string name="gen_rfc">Genera RFC</string>
+    <string name="nom">Nombre(s)</string>
+    <string name="ap">Apellido Paterno</string>
+    <string name="am">Apellido Materno</string>
+    <string name="fn">Fecha Nacimiento</string>
+    <string name="title1">Su RFC es:</string>
+    <string name="btn1">Generar</string>
+</resources>
